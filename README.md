@@ -3,15 +3,6 @@
 # A new Flutter project.
 
 
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/SignupScreen.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/SignupScreen.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/login_screen.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/ForgotPassword.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/PinVerification.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/NewScreen.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/InProgressScreen.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/CompletedScreen.png" width="200" height="400" alt="Potrait image">
-<img src="https://github.com/nazimfeni/task_manager/blob/master/screenshot/CancelledScreen.png" width="200" height="400" alt="Potrait image">
 
 
 ## Getting Started
